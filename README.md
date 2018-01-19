@@ -16,7 +16,7 @@ Theres so much stuff to do:
 2. __one__
 3. you got it
 
-check my (~~oh~~) ![Bubbles](/home/images.jpeg)
+check my (~~oh~~) ![Bubbles](images.jpeg)
 
 but we have this
 https://daringfireball.net/projects/markdown/ 
